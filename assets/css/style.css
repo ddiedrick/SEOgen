@@ -1,20 +1,23 @@
+/* CSS stlylesheet */
+
+/*  */
 * {
     box-sizing: border-box;
     padding: 0;
     margin: 0;
 }
-
+/* Sets the background color for the body */
 body {
     background-color: #d9dcd6;
 }
-
+/* Sets the font, padding and background color of elements with class header */
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     background-color: #2a607c;
     color: #ffffff;
 }
-
+/* creates a display box and sets font size for h1 */
 .header h1 {
     display: inline-block;
     font-size: 48px;
@@ -160,41 +163,41 @@ p {
     background-color: #0072bb;
     color: #ffffff;
 }
-
+/*  */
 .search-engine-optimization img {
     max-height: 200px;
 }
-
+/*  */
 .online-reputation-management img {
     max-height: 200px;
 }
-
+/*  */
 .social-media-marketing img {
     max-height: 200px;
 }
-
+/*  */
 .search-engine-optimization h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
-
+/*  */
 .online-reputation-management h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
-
+/*  */
 .social-media-marketing h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
-
+/*  */
 .footer {
     padding: 30px;
     clear: both;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
 }
-
+/*  */
 .footer h2 {
     font-size: 20px;
 }
