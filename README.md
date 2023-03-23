@@ -1,3 +1,4 @@
+![demo](https://user-images.githubusercontent.com/35505692/227089415-8430351c-61d1-4d40-8be5-009b52b29f16.jpg)
 # SEOgen
 
 Homework assingment #1 done by Deandra Diedrick
