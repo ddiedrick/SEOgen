@@ -4,8 +4,9 @@ Screenshot:
 
 ## Description
 
-A codebase that follows accessibility standards that is optimized for search engines.
+A codebase that follows accessibility standards that is optimized for search engines. 
 
+My part in this project was to create the repo, upload all the code/photo files, create the readme and add comments to the code.
 
 
 ## Link to site: 
